@@ -1,0 +1,62 @@
+\documentclass[12pt,oneside]{book}
+
+\title{Report on innovation lead by .. on ..}
+\author{
+  Luca Zaninotto
+  \and
+  Margarita Kosareva
+  \and
+  Saadat Nursultan
+}
+
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{multicol}
+\usepackage{tikz}
+\usepackage{biblatex}
+\addbibresource{luca/bibliography.bib}
+\addbibresource{margarita/bibliography.bib}
+\addbibresource{saadat/bibliography.bib}
+\usepackage[a4paper,width=170mm,top=10mm,bottom=22mm,includeheadfoot]{geometry}
+
+\hypersetup{
+ pdfauthor={Luca Zaninotto, Margarita Kosareva, Saadat Nursultan},
+ pdftitle={},
+ pdfkeywords={},
+ pdfsubject={},
+ pdfcreator={},
+ pdflang={English}
+}
+
+
+\begin{document}
+\maketitle
+
+\chapter*{Introduction}
+  This paper will discuss how the company ... leads innovations on
+  [3 topics]. Each section will ...
+  
+\chapter{First topic}
+\input{luca/sections/meta_description.tex}
+\input{luca/sections/objectives.tex}
+\input{luca/sections/data_and_methods.tex}
+\input{luca/sections/analysis_and_results.tex}
+\input{luca/sections/conclusion.tex}
+
+\chapter{Second topic}
+\input{margarita/sections/meta_description.tex}
+\input{margarita/sections/objectives.tex}
+\input{margarita/sections/data_and_methods.tex}
+\input{margarita/sections/analysis_and_results.tex}
+\input{margarita/sections/conclusion.tex}
+
+\chapter{Third topic}
+\input{saadat/sections/meta_description.tex}
+\input{saadat/sections/objectives.tex}
+\input{saadat/sections/data_and_methods.tex}
+\input{saadat/sections/analysis_and_results.tex}
+\input{saadat/sections/conclusion.tex}
+
+\printbibliography
+\end{document}
