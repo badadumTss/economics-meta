@@ -11,7 +11,7 @@
 \usepackage{multicol}
 \usepackage{tikz}
 \usepackage[a4paper,width=170mm,top=10mm,bottom=22mm,includeheadfoot]{geometry}
-\usepackage{biblatex}
+\usepackage[style=alphabetic]{biblatex}
 \addbibresource{bibliography.bib}
 
 \hypersetup{
@@ -38,5 +38,6 @@
 \input{sections/analysis_and_results.tex}
 \input{sections/conclusion.tex}
 
-\printbibliography
+\newpage
+\printbibliography[title={Bibliography}]
 \end{document}
