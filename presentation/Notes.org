@@ -1,0 +1,162 @@
+* presentation
+  :PROPERTIES:
+  :NOTER_DOCUMENT: output/presentation.pdf
+  :NOTER_PAGE: [[pdf:c:/Users/lucaz/Documents/uni/economics/presentation/output/output/presentation.pdf::13]]
+  :END:
+** Good moring everyone
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::1++0.00]]
+   :END:
+   I'm luca and I'm here t talk to you about an innovation at Meta.
+   First of all, what is meta? Meta Platforms Inc., also referred to
+   in this paper as Meta and formerly known as Facebook Inc., is an
+   American transnational holding company, which owns a technological
+   conglomerate, based in Menlo Park, California. It is a parent
+   organization of Facebook, Instagram, WhatsApp and Oculus. Being one
+   of the most valuable companies in the world, it is also one of the
+   Big Tech companies in U.S. information technology, alongside
+   Amazon, Google, Apple and Microsoft.
+** What im going to talk about
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::2++0.00]]
+   :END:
+   is first of all Meta business model. We'll introduce it and we'll
+   se what are the core aspects of it, and how Hate speech might be a
+   problem.
+
+   Secondly, we'll talk about what Meta is doing to contrast HS and
+   the specific case of a new AI model they developed and why they
+   developed it.
+
+   Finally, we'll see how this innovation in AI they are carrying out
+   interacts with their business model, and how it can bring new value
+   to it.
+** Ok, we've talked about Meta's business model
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::3++0.00]]
+   :END:
+   What I'll present to you however is not the complete business
+   model. The report I wrote focused on Meta's social media platforms,
+   since they are the primary source of revenues for meta, and left
+   out other secondary products, like for example oculus and novi,
+   wich are still in their experimental phase. So from now on we'll
+   concentrate on these two products of Meta: Facebook and Instagram,
+   the two famous social media platforms.
+** Here's an elaboration of the nusiness model of these two platforms.
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::4++0.00]]
+   :END:
+   Unfortinately during this research I found no articles going in
+   depth of the business model fo Meta, so I had to relay on the
+   specialized press for it. Luckly, most of the articles seemd to
+   agree on what was the core structure of Meta's business on social
+   platforms.
+
+   - key partners :: are mostly content creators (individuals or
+     firms) and ad agencies, meta works with them to assure constant
+     new content inside of the platforms and acquire data on
+     demographics.
+   - key activities :: are mainly the development and mantainance of
+     its platforms and of new products (R&D)
+   - key resources :: are bothe the platforms themselves, AND the
+     social graph thwy bilt in these years, that is to say the series
+     of connections between one person and its friends and
+     relatives. This is paart of what the information business is
+     about.
+   - channels :: are the mobile and web applications that the
+     companies develop and mantain.
+   - customers relationships :: widh same side we mean that they are
+     based on the platforms themselves, primarely for the users, but
+     more and more also for the advertisers. With cross side, instead,
+     we mean that some relationships go trough an international sales
+     organization, for this reason cross side (perpendicular to the
+     platforms).
+   - customers :: there are three main categories of customers
+     integrated in Meta's business model: internet users (users),
+     advertisers and developers. Each of them generates an highlighted
+     revenue stream:
+   - revenue streams ::
+     - free :: for the users
+     - ad revenues :: are the revenues that the advertisers ay to let
+       users see their ads (obv)
+     - payment revenues :: happen when users pay for some features
+       inside of something developed with meta's development platform.
+
+   What should come out from this model is that users, customers, are
+   also a resource for Meta, since the value they propose to
+   advertisers is the presence of users themselves on their patform,
+   and therefore an install base to show teir products.
+** Therefore
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::5++0.00]]
+   :END:
+   The relationship between the company and the customers is a key
+   component in meta business model, along with factors that keep the
+   users /inside/ of Meta's platforms. Factors, instead, that create a
+   sense of distrust between the company and the customers puts the
+   system in dange in a way, becaus, if we look again at the business
+   model, if the users leave the platform one of the value
+   propositions goes away, and this means less revenue for the company.
+** What are these factors?
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::6++0.00]]
+   :END:
+   One is for sure hate speech. Even though in the short term this
+   might seem profitable, since it engases the users, on the long run
+   becomes a problem, since because of the toxic environment it
+   creates both users and investors are incentivized to leave the
+   platform. in fact users dont want to spend their time arguing with
+   other people and investors dont want their products associated to
+   controversial topics that might hurt their image.
+** What to do then?
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::8++0.00]]
+   :END:
+   Meta started a journey in 2016, it aimed to build efficent and
+   trustful AI models that could predict weather a content was or not
+   harmful. this way they would be able to remove suh content from
+   their platforms. Since then more and more sophisticated models have
+   emerged from Meta's AI research groups, and in the last years the
+   results became more and more reliable. One problem though that they
+   kept facing was that content, since is a human product of language
+   and culture, evolves *very* rapidly, and up now the systems they
+   used could intercept such changes in a metter of months.
+** A new fast shot learner is a step in the right direction
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::9++0.00]]
+   :END:
+   A recent new approach came out to Meta AI R&D, a new few shot
+   learner ould help in this case, since is able to learn form a
+   smaller set of data, and therefore /learn/ in less time
+** Once they put this in production
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::10++0.00]]
+   :END:
+   the results begin to be seen: form 10 violent content each 10000
+   seen by the users, the company was able to lower this number to 3
+   each 10000, wich is an increment of circa 3 times on the efficency
+   of the model.
+** This however is not a radical innovation
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::11++0.00]]
+   :END:
+   Is not something nobody has ever seen, but it surely is an
+   incremental innovation since builds upon other results from
+   academia and the same company.
+
+   Ok, but how does this affects the company business model?
+** Certainly
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::12++0.00]]
+   :END:
+   Since we saw that harmful content could be a problem in the
+   original model, we can already see that is tacles users and
+   advertisers. What we argue is that it also adds a value to the
+   business model, since a system like that incentivises the creation
+   of an helathy and peaceful environment for users and assures
+   advertisers not to be associated with harmful content!
+** THanks for the attention
+   :PROPERTIES:
+   :NOTER_PAGE: [[pdf:~/Documents/uni/economics/presentation/output/presentation.pdf::13++0.00]]
+   :END:
+   here there are the references
